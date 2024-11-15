@@ -2,7 +2,7 @@
   "name": "whatsapp-bot (Ethix-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
-    "whatsapp bot"
+    "Rozario bot"
   ],
   "repository": "https://github.com/Ethix-Xsid/Ethix-MD",
   "stack": "container",
@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&1L7QWJMv"
     },
     "MODE": {
       "description": "mode public or self",
@@ -65,7 +65,7 @@
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": ""
+      "value": "."
     }
     },
     "buildpacks": [
